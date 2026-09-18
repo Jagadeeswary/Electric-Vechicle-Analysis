@@ -18,6 +18,7 @@ Total Vehicles	Overall count of EVs (BEV + PHEV) in the dataset
 Average Electric Range	Mean electric range across all vehicles, indicating tech maturity
 Total BEV Vehicles & % of Total	Volume and market share of fully electric vehicles
 Total PHEV Vehicles & % of Total	Volume and market share of plug-in hybrid vehicles
+
 📈 Dashboard Visuals
 Visual	Chart Type	Purpose
 Total Vehicles by Model Year	Line Chart	Adoption growth trend from 2010 onward
